@@ -1,0 +1,16 @@
+[12-Sep-2022 23:09:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/api.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/api.php on line 28
+[12-Sep-2022 23:09:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/channels.php on line 16
+[12-Sep-2022 23:09:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/console.php on line 17
+[12-Sep-2022 23:09:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/routes/web.php on line 17

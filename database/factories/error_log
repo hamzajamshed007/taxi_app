@@ -1,0 +1,4 @@
+[12-Sep-2022 23:07:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ahsanpanel2/taxiappapi.matthewscarservices.com/database/factories/UserFactory.php on line 11
